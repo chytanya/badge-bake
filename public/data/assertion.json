@@ -1,0 +1,20 @@
+{
+  "@context": "https://w3id.org/openbadges/v1",
+  "type": "Assertion",
+  "id": "http://ufjbggbuwy.localtunnel.me/data/assertion.json",
+  "uid": "f2c22",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "chaitanya.mutyala@gmail.com"
+  },
+  "image": "http://ufjbggbuwy.localtunnel.me/images/badge.png",
+  "evidence": "http://ufjbggbuwy.localtunnel.me/pages/badge.html",
+  "issuedOn": 1468282917,
+  "expires": 2068282917,
+  "badge": "http://ufjbggbuwy.localtunnel.me/data/badge.json",
+  "verify": {
+    "type": "hosted",
+    "url": "http://ufjbggbuwy.localtunnel.me/data/assertion.json"
+  }
+}

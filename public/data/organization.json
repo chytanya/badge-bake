@@ -1,0 +1,10 @@
+{
+  "@context": "https://w3id.org/openbadges/v1",
+  "type": "Issuer",
+  "id": "http://ufjbggbuwy.localtunnel.me/data/organization.json",
+  "name": "An Example Badge Issuer",
+  "image": "http://ufjbggbuwy.localtunnel.me/images/logo.png",
+  "url": "http://ufjbggbuwy.localtunnel.me/",
+  "email": "chaitu@example.org",
+  "revocationList": "http://ufjbggbuwy.localtunnel.me/data/revoked.json"
+}

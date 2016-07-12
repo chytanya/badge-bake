@@ -1,0 +1,17 @@
+{
+  "@context": "https://w3id.org/openbadges/v1",
+  "type": "BadgeClass",
+  "id": "http://ufjbggbuwy.localtunnel.me/data/badge.json",
+  "name": "Awesome Badge 2",
+  "description": "For doing awesome things with badges that people think is pretty great.",
+  "image": "http://ufjbggbuwy.localtunnel.me/images/baked.png",
+  "criteria": "http://ufjbggbuwy.localtunnel.me/pages/badge.html",
+  "tags": ["badges", "awesome"],
+  "issuer": "http://ufjbggbuwy.localtunnel.me/data/organization.json",
+  "alignment": [
+    { "name": "CCSS.ELA-Literacy.RST.11-12.4",
+      "url": "https://bloomboard.com/microcredential/view/bd80dffd-a4fe-46a5-aca9-e5b359924bce",
+      "description": "Follow precisely a complex multistep procedure when carrying out experiments, taking measurements, or performing technical tasks; analyze the specific results based on explanations in the text."
+    }
+  ]
+}
